@@ -1,0 +1,2 @@
+# QuizApp
+ This project deals with an application that allows the user to develop his knowledge through some simple questions posed by the application. First, it is necessary to register through the E-mail and password and upon confirmation. The user moves to the quiz and ultimately the application must display the score that he collected, moreover the user can repeats the quiz to improve the score.
